@@ -13,52 +13,52 @@ Las plataformas de e-commerce necesitan entender:
 
 ## Objetivo
 Analizar el comportamiento de compra para identificar patrones que permitan mejorar:
-Planeación de inventario
-Estrategias de recomendación
-Predicción de demanda
+- Planeación de inventario
+- Estrategias de recomendación
+- Predicción de demanda
 
  ## Mi contribución
- Limpieza y validación completa de datos
- Análisis exploratorio enfocado en comportamiento del cliente
- Identificación de patrones de recompra
- Generación de visualizaciones claras para toma de decisiones
+ - Limpieza y validación completa de datos
+ - Análisis exploratorio enfocado en comportamiento del cliente
+ - Identificación de patrones de recompra
+ - Generación de visualizaciones claras para toma de decisiones
 
 ## Análisis realizado
-Pedidos por hora del día
-Pedidos por día de la semana
-Tiempo entre órdenes
-Productos más comprados
-Análisis de recompra
-Comportamiento del carrito
+- Pedidos por hora del día
+- Pedidos por día de la semana
+- Tiempo entre órdenes
+- Productos más comprados
+- Análisis de recompra
+- Comportamiento del carrito
 
 ## Insights clave
-Mayor volumen de pedidos entre 10 AM y 3 PM
-Fines de semana presentan picos de demanda
-Alta recurrencia en productos específicos (indicador de fidelización)
-Clientes tienden a repetir productos en ciclos cortos
+- Mayor volumen de pedidos entre 10 AM y 3 PM
+- Fines de semana presentan picos de demanda
+- Alta recurrencia en productos específicos (indicador de fidelización)
+- Clientes tienden a repetir productos en ciclos cortos
 
 ## Impacto en negocio
 Este análisis permite:
-Optimizar inventarios según horarios y demanda
-Identificar productos “core” para ingresos recurrentes
-Mejorar sistemas de recomendación
+- Optimizar inventarios según horarios y demanda
+- Identificar productos “core” para ingresos recurrentes
+- Mejorar sistemas de recomendación
 
 ## Enfoque financiero (diferenciador)
-Identificación de productos con flujo de ingresos recurrente
-Apoyo en forecasting de demanda
-Segmentación de clientes de alto valor
+- Identificación de productos con flujo de ingresos recurrente
+- Apoyo en forecasting de demanda
+- Segmentación de clientes de alto valor
 
 ## Tecnologías
-Python
-Pandas
-Matplotlib / Seaborn
-Jupyter Notebook
+- Python
+- Pandas
+- Matplotlib / Seaborn
+- Jupyter Notebook
 
 ## Evidencia visual
 (Incluir aquí capturas de gráficos clave desde /outputs/images)
 
 ## Aprendizajes
-Importancia de la calidad de datos en análisis de comportamiento
-Cómo traducir datos en decisiones de negocio
-Identificación de patrones de consumo reales
+- Importancia de la calidad de datos en análisis de comportamiento
+- Cómo traducir datos en decisiones de negocio
+- Identificación de patrones de consumo reales
 
