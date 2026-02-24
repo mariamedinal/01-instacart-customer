@@ -55,8 +55,9 @@ Este análisis permite:
 - Jupyter Notebook
 
 ## Evidencia visual
+Cantidad de ordenes que hace un cliente
+<img src="Capturas/ordenesxcliente.png" alt="Cantidad de ordenes que hace un cliente" width="400"/>
 
-![Cantidad de ordenes que hace un cliente](Capturas/ordenesxcliente.png)
 
 
 
