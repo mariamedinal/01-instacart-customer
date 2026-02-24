@@ -58,6 +58,12 @@ Este análisis permite:
 Representa la distribución para el número de pedidos por cliente:
 <img src="Capturas/ordenesxcliente.png" alt="Cantidad de ordenes que hace un cliente" width="700"/>
 
+Para cada hora del día, ¿cuántas personas hacen órdenes?:
+<img src="Capturas/ordenesxhora.png" alt=" Para cada hora del día, ¿cuántas personas hacen órdenes?" width="700"/>
+
+Representa el número de días para realizar un nuevo pedido:
+<img src="Capturas/tiempoesperado.png" alt="Representa el número de días para realizar un nuevo pedido" width="700"/>
+
 
 ## Aprendizajes
 - Importancia de la calidad de datos en análisis de comportamiento
