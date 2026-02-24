@@ -56,9 +56,8 @@ Este análisis permite:
 
 ## Evidencia visual
 Cantidad de ordenes que hace un cliente
-<img src="Capturas/ordenesxcliente.png" alt="Cantidad de ordenes que hace un cliente" width="400"/>
-
-
+Representa la distribución para el número de pedidos por cliente:
+<img src="Capturas/ordenesxcliente.png" alt="Cantidad de ordenes que hace un cliente" width="700"/>
 
 
 ## Aprendizajes
