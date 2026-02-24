@@ -1,14 +1,11 @@
-# 01-instacart-customer
+📊  # 01-instacart-customer
 INSTACART CUSTOMER BEHAVIOR ANALYSIS
 
-📊 1. INSTACART CUSTOMER BEHAVIOR ANALYSIS
-📌 Nombre del repositorio
-instacart-customer-behavior-analysis
-________________________________________
-🧠 Descripción del proyecto (README)
-🔹 Overview
+🧠 Descripción del proyecto 
+
 Este proyecto realiza un análisis exploratorio de datos (EDA) sobre el comportamiento de compra de clientes en una plataforma de e-commerce (Instacart), con el fin de identificar patrones de consumo, recurrencia y tendencias de productos.
-________________________________________
+
+
 🎯 Problema de negocio
 Las plataformas de e-commerce necesitan entender:
 •	Cuándo compran los clientes
