@@ -55,7 +55,10 @@ Este análisis permite:
 - Jupyter Notebook
 
 ## Evidencia visual
-(Incluir aquí capturas de gráficos clave desde /outputs/images)
+
+![Cantidad de ordenes que hace un cliente](Capturas/ordenesxcliente.png)
+
+
 
 ## Aprendizajes
 - Importancia de la calidad de datos en análisis de comportamiento
