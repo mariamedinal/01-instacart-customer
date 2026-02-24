@@ -43,7 +43,7 @@ Este análisis permite:
 - Identificar productos “core” para ingresos recurrentes
 - Mejorar sistemas de recomendación
 
-## Enfoque financiero (diferenciador)
+## Enfoque financiero
 - Identificación de productos con flujo de ingresos recurrente
 - Apoyo en forecasting de demanda
 - Segmentación de clientes de alto valor
