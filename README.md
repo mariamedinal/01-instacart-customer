@@ -55,7 +55,6 @@ Este análisis permite:
 - Jupyter Notebook
 
 ## Evidencia visual
-Cantidad de ordenes que hace un cliente
 Representa la distribución para el número de pedidos por cliente:
 <img src="Capturas/ordenesxcliente.png" alt="Cantidad de ordenes que hace un cliente" width="700"/>
 
