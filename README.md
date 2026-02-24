@@ -1,17 +1,17 @@
 # 01-instacart-customer
 INSTACART CUSTOMER BEHAVIOR ANALYSIS
 
-##Descripción del proyecto 
+## Descripción del proyecto 
 
 Este proyecto realiza un análisis exploratorio de datos (EDA) sobre el comportamiento de compra de clientes en una plataforma de e-commerce (Instacart), con el fin de identificar patrones de consumo, recurrencia y tendencias de productos.
 
-##Problema de negocio
+## Problema de negocio
 Las plataformas de e-commerce necesitan entender:
-Cuándo compran los clientes
-Qué productos generan recurrencia
-Cómo optimizar inventario y ventas
+- Cuándo compran los clientes
+- Qué productos generan recurrencia
+- Cómo optimizar inventario y ventas
 
-##Objetivo
+## Objetivo
 Analizar el comportamiento de compra para identificar patrones que permitan mejorar:
 Planeación de inventario
 Estrategias de recomendación
