@@ -1,4 +1,4 @@
-# 01-instacart-customer
+# Instacart-customer
 INSTACART CUSTOMER BEHAVIOR ANALYSIS
 
 ## Descripción del proyecto 
